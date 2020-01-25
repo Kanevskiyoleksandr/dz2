@@ -1,0 +1,12 @@
+a = 13
+b = 1
+c = 12
+d = 100
+
+print(a+b)
+print(a-b)
+print(d/a)
+print(a*c)
+K = "Hello,"
+W = " I am Aleksandr Kanevskiy"
+print(K+W)
